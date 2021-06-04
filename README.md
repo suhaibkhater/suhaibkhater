@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @suhaibkhater
-- 👀 I’m a Fullstack software engineer with more than 4 years of experience in Javascript and Ruby on rails
-
+- 👀I am a full stack developer with 4+ years of experience with Javascript, React, React native and ruby on rails
